@@ -1,2 +1,2 @@
 # nodeprop
-Site totalmente responsivo feito para estudos, utilizando html, css, javascript e jquery
+Site totalmente responsivo feito para estudos, utilizando html, css e jquery
